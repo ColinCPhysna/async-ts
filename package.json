@@ -1,0 +1,14 @@
+{
+  "name": "async-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/server.js"
+  },
+  "dependencies": {
+    "tsc": "^1.20150623.0",
+    "typescript": "^4.0.3"
+  }
+}
